@@ -1,0 +1,28 @@
+name: Geert Faber
+favicon: null
+layout_spectrum: 0.2685435463208705
+typography_spectrum: 0.0035617465618997812
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.17590469517745078
+  lightness: 0.5378457906190306
+  saturation: 0.3359847320243716
+  rhythmicContrast: 0.9264513310045004
+purpose: []
