@@ -1,28 +1,28 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Media professional working as a strategy and concepts consultant at\_ComingNext.TV."
-datePublished: '2016-04-06T19:20:18.261Z'
-dateModified: '2016-04-06T19:19:57.138Z'
-title: 'Geert Faber '
+datePublished: '2016-04-06T19:28:48.111Z'
+dateModified: '2016-04-06T19:28:13.427Z'
+title: Geert Faber
 author: []
+sourcePath: _posts/2016-04-06-geert-faber.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-geert-faber.md
-published: true
-url: geert-faber/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6b4b697-9d6b-4b26-97e0-bff11e74280e.jpg)
+![Geert Faber](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6b4b697-9d6b-4b26-97e0-bff11e74280e.jpg)
 
 # Geert Faber
 
