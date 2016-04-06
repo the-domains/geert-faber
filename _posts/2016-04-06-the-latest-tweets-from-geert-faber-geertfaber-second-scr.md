@@ -17,8 +17,8 @@ keywords:
   - predicts
   - social
 description: 'The latest Tweets from Geert Faber (@geertfaber). Second Screen, Social TV, New Media & Television, Lecturer, SmartTV, Advertising, Marketing. Works @ComingNextTV. Predicts the @endoftelevision as we know it. Amsterdam'
-datePublished: '2016-04-06T19:47:03.193Z'
-dateModified: '2016-04-06T19:46:40.261Z'
+datePublished: '2016-04-06T19:48:31.409Z'
+dateModified: '2016-04-06T19:47:28.346Z'
 author:
   - avatar: {}
 related: []
@@ -40,6 +40,4 @@ _type: Comment
 _context: 'http://schema.org'
 
 ---
-## 
-> 
 > The latest Tweets from Geert Faber (@geertfaber). Second Screen, Social TV, New Media & Television, Lecturer, SmartTV, Advertising, Marketing. Works @ComingNextTV. Predicts the @endoftelevision as we know it. Amsterdam
