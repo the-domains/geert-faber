@@ -17,22 +17,22 @@ keywords:
   - comingnext
   - project
 description: ''
-datePublished: '2016-04-06T19:25:50.515Z'
-dateModified: '2016-04-06T19:25:43.947Z'
+datePublished: '2016-04-06T19:41:51.061Z'
+dateModified: '2016-04-06T19:38:16.369Z'
 author: []
 related: []
 app_links: []
 title: 'Geert Faber | LinkedIn'
+sourcePath: _posts/2016-04-06-geert-faber-or-linkedin.md
+published: true
 authors: []
 publisher:
   name: LinkedIn
   domain: www.linkedin.com
   url: 'http://linkedin.com'
   favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
-sourcePath: _posts/2016-04-06-geert-faber-or-linkedin.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Geert Faber | LinkedIn</h1><img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/005/028/383/35260e9.jpg" /></article>
+### Geert Faber | LinkedIn
