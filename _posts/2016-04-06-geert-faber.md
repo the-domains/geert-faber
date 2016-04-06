@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Media professional working as a strategy and concepts consultant at\_ComingNext.TV."
-datePublished: '2016-04-06T19:44:29.248Z'
-dateModified: '2016-04-06T19:44:28.862Z'
+datePublished: '2016-04-06T19:48:34.243Z'
+dateModified: '2016-04-06T19:48:21.755Z'
 title: Geert Faber
 author: []
 sourcePath: _posts/2016-04-06-geert-faber.md
@@ -29,8 +29,6 @@ _type: Blurb
 **Media professional working as a strategy and concepts consultant at [ComingNext.TV][0].**
 
 Predicts [The End of Television as we know it][1].
-
-https://www.linkedin.com/in/geertfaber
 
 [0]: http://comingnext.tv/
 [1]: http://www.theendoftelevision.com/
