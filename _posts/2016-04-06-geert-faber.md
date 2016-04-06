@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Media professional working as a strategy and concepts consultant at\_ComingNext.TV."
-datePublished: '2016-04-06T19:28:48.111Z'
-dateModified: '2016-04-06T19:28:13.427Z'
+datePublished: '2016-04-06T19:44:29.248Z'
+dateModified: '2016-04-06T19:44:28.862Z'
 title: Geert Faber
 author: []
 sourcePath: _posts/2016-04-06-geert-faber.md
