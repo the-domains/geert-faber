@@ -17,8 +17,8 @@ keywords:
   - comingnext
   - project
 description: 'As Strategy & Concepts consultant at ComingNext.TV I work with broadcasters, production companies and advertisers on creating next generation TV.'
-datePublished: '2016-04-06T19:47:07.555Z'
-dateModified: '2016-04-06T19:46:59.981Z'
+datePublished: '2016-04-06T19:48:27.318Z'
+dateModified: '2016-04-06T19:47:31.573Z'
 author: []
 related: []
 app_links: []
