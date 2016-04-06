@@ -17,8 +17,8 @@ keywords:
   - comingnext
   - project
 description: ''
-datePublished: '2016-04-06T19:44:23.288Z'
-dateModified: '2016-04-06T19:44:03.169Z'
+datePublished: '2016-04-06T19:46:13.684Z'
+dateModified: '2016-04-06T19:46:08.501Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-### Geert Faber | LinkedIn
-
+### 
+> 
 > As Strategy & Concepts consultant at ComingNext.TV I work with broadcasters, production companies and advertisers on creating next generation TV.
