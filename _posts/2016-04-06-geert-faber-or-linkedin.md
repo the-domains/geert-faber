@@ -16,9 +16,9 @@ keywords:
   - business
   - comingnext
   - project
-description: ''
-datePublished: '2016-04-06T19:46:13.684Z'
-dateModified: '2016-04-06T19:46:08.501Z'
+description: 'As Strategy & Concepts consultant at ComingNext.TV I work with broadcasters, production companies and advertisers on creating next generation TV.'
+datePublished: '2016-04-06T19:46:52.723Z'
+dateModified: '2016-04-06T19:46:48.563Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-### 
-> 
 > As Strategy & Concepts consultant at ComingNext.TV I work with broadcasters, production companies and advertisers on creating next generation TV.
