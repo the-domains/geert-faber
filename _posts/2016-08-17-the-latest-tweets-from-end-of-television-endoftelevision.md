@@ -1,4 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/endoftelevision'
+inLanguage: en
+keywords:
+  - http
+  - bit
+  - streaming
+  - tcrn
+  - hulu
+  - tweet
+  - snapchat
+  - recode
+  - vod
+  - twitter
+description: >-
+  The latest Tweets from End of Television (@endoftelevision). Tweets (by
+  @geertfaber) on The End of Televisions as we know it. Social TV | Second
+  Screen | VOD | Viewing Behavior | Broadcasting | Advertising | OTT | VOD.
+  International
+datePublished: '2016-08-17T15:18:31.046Z'
+dateModified: '2016-08-17T15:14:11.882Z'
 author:
   - avatar:
       src: >-
@@ -22,44 +45,22 @@ author:
           - 95
           - 133
 related: []
-publisher:
-  url: 'https://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - http
-  - bit
-  - streaming
-  - tcrn
-  - hulu
-  - tweet
-  - snapchat
-  - recode
-  - vod
-  - twitter
-description: >-
-  The latest Tweets from End of Television (@endoftelevision). Tweets (by
-  @geertfaber) on The End of Televisions as we know it. Social TV | Second
-  Screen | VOD | Viewing Behavior | Broadcasting | Advertising | OTT | VOD.
-  International
-inLanguage: en
 app_links:
   - path: >-
       twitter/user?screen_name=endoftelevision&ref_src=twsrc%5Egoogle%7Ctwcamp%5Eandroidseo%7Ctwgr%5Eprofile
     package: com.twitter.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://twitter.com/endoftelevision'
-datePublished: '2016-08-17T15:14:03.754Z'
-dateModified: '2016-08-17T15:13:33.058Z'
 title: ''
 via: {}
-starred: false
 sourcePath: _posts/2016-08-17-the-latest-tweets-from-end-of-television-endoftelevision.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'https://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
+starred: false
 _type: Comment
 _context: 'http://schema.org'
 
